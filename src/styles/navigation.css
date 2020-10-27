@@ -1,0 +1,32 @@
+
+.TopBar {
+	background-color: #A9F2F5;
+	padding: 0;
+
+
+	display: flex;
+	justify-content: center;
+}
+
+body {
+	background-color: #A9F5B1;
+}
+
+ul {
+	display: flex;
+	justify-content: space-between;
+}
+
+
+li {
+	display: flex;
+	justify-content: space-around;
+
+}
+
+span {
+	padding-left: 50px;
+	padding-right: 50px;
+	background-color: #A9F2F5;
+
+}

@@ -1,0 +1,25 @@
+
+
+
+
+.infoProfil {
+	display: flex;
+	justify-content: center;
+}
+
+img {
+	margin-top: 50px;
+	width: 400px;
+	height: 280px;
+	border-radius: 50%;
+}
+
+h3 {
+	display: flex;
+	justify-content: center;
+}
+
+form {
+	display: flex;
+	justify-content: center;
+}
